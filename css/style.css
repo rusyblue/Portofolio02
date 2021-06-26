@@ -497,11 +497,13 @@ a:hover {
 .navbar-b.navbar-reduce .navbar-toggler span {
   background-color: #1B1B1B;
 }
-
+ 
 .navbar-b .navbar-brand {
   color: #fff;
   font-size: 1.6rem;
   font-weight: 600;
+  width: 5rem;
+  height: 5rem;
 }
 
 .navbar-b .navbar-nav .dropdown-item.show .dropdown-menu,
